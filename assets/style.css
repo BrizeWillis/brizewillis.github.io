@@ -22,12 +22,12 @@ h1, h2, h3 { font-family: "Fraunces", Georgia, serif; font-weight: 700; color: v
 img { max-width: 100%; height: auto; }
 .wrap { max-width: 960px; margin: 0 auto; padding: 0 20px; }
 
-/* Le bandeau rouge du studio, comme l'écran du studio dans le jeu */
-.band { background: radial-gradient(ellipse 75% 140% at 50% 50%, #ab1a19 0%, #8a1514 48%, #470b0a 100%); color: #fff; }
+/* Le bandeau noir du studio, comme l'ouverture de ses jeux et ses photos de profil : le logo y a son P rouge */
+.band { background: #000; color: #fff; }
 .hero { text-align: center; padding: 76px 20px 64px; }
 .hero h1 { margin: 0; }
 .hero img { width: min(520px, 76vw); display: block; margin: 0 auto; }
-.hero p { margin: 18px 0 0; font-weight: 700; letter-spacing: .05em; color: #ffe7de; }
+.hero p { margin: 26px 0 0; font-weight: 700; letter-spacing: .05em; color: #d9d0c8; }
 .top { display: flex; align-items: center; justify-content: space-between; gap: 16px; max-width: 960px; margin: 0 auto; padding: 14px 20px; }
 .top img { width: 150px; display: block; }
 .top nav a { color: #fff; text-decoration: none; font-weight: 700; margin-left: 18px; }
