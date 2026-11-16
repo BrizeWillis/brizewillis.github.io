@@ -39,6 +39,7 @@ h2 { font-size: 30px; margin: 0 0 18px; }
 
 .card { background: var(--paper); border: 1px solid var(--line); border-radius: 24px; box-shadow: 0 10px 30px rgba(71, 11, 10, .08); }
 .game { display: grid; grid-template-columns: 220px 1fr; gap: 28px; align-items: center; padding: 24px; }
+.game + .game { margin-top: 20px; }
 .game img, .shot img { display: block; border-radius: 18px; box-shadow: 0 8px 20px rgba(0, 0, 0, .18); }
 .game h3 { font-size: 28px; margin: 0 0 8px; }
 .game p { margin: 0 0 20px; }
