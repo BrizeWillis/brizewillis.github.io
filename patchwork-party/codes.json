@@ -1,0 +1,6 @@
+{
+  "lisezmoi": "Les codes promo de Patchwork Party. Chaque ligne donne l'empreinte d'un code (SHA-256), ce qu'il offre dans le jeu (coins : du fil ; add_slot, pluck, shuffle : des bonus) et, s'il y en a un, son dernier jour (until). Le code lui-même n'est pas écrit ici.",
+  "codes": [
+    {"hash": "c803fa493b988a0bd273d862d73f64084742d705faa0e9676fc61a249fb05e44", "coins": 200, "pluck": 1, "until": "2026-12-31"}
+  ]
+}
